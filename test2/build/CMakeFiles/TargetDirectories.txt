@@ -1,0 +1,3 @@
+/drive2/research/code/face_utils_C/test2/build/CMakeFiles/Authentiface2.dir
+/drive2/research/code/face_utils_C/test2/build/CMakeFiles/edit_cache.dir
+/drive2/research/code/face_utils_C/test2/build/CMakeFiles/rebuild_cache.dir
